@@ -17,3 +17,18 @@ Pazarlama çalışmalarında sıklıkla hedef müşteri kitlesini belirlemek iç
   RFM Haritası
 
 * Bu metrikler ile RFM skorları hesaplanarak çıkan skorlara göre oluşturulan her bir segment özelinde aksiyon kararları alınabilir.
+
+
+
+# Gereksinimler
+
+* Yerel makinenizde python kurulmuş olmalıdır.
+* Kurulu değilse https://www.python.org/downloads/ 'dan son sürümünü indirip kurabilirsiniz.
+
+# Kurulum & Çalıştırma
+
+- <pre class="terminal"><code class="terminal-line" prefix="$">git clone https://github.com/selcuksan/RFM-Analizi.git</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">cd RFM-Analizi</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">pip install -r requirements.txt</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">py rfm_analizi.py</code></pre>
+    
