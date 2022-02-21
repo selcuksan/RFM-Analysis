@@ -22,8 +22,7 @@ Pazarlama çalışmalarında sıklıkla hedef müşteri kitlesini belirlemek iç
 
 # Gereksinimler
 
-* Yerel makinenizde python kurulmuş olmalıdır.
-* Kurulu değilse https://www.python.org/downloads/ 'dan son sürümünü indirip kurabilirsiniz.
+* Yerel makinenizde python ve Git kurulmuş olmalıdır.
 
 # Kurulum & Çalıştırma
 
