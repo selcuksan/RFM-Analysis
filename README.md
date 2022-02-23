@@ -26,8 +26,8 @@ Pazarlama çalışmalarında sıklıkla hedef müşteri kitlesini belirlemek iç
 
 # Kurulum & Çalıştırma
 
-- <pre class="terminal"><code class="terminal-line" prefix="$">git clone https://github.com/selcuksan/RFM-Analizi.git</code></pre>
-- <pre class="terminal"><code class="terminal-line" prefix="$">cd RFM-Analizi</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">git clone https://github.com/selcuksan/RFM-Analysis.git</code></pre>
+- <pre class="terminal"><code class="terminal-line" prefix="$">cd RFM-Analysis</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">pip install -r requirements.txt</code></pre>
 - <pre class="terminal"><code class="terminal-line" prefix="$">py rfm_analizi.py</code></pre>
     
